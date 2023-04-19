@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\Func\Func\bin\Debug\Func.dll
+C:\Users\1\source\repos\Func\Func\bin\Debug\Func.pdb
+C:\Users\1\source\repos\Func\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Func\Func\obj\Debug\Func.dll
+C:\Users\1\source\repos\Func\Func\obj\Debug\Func.pdb
